@@ -20,6 +20,7 @@
     "next": "13.5.4",
     "react": "^18",
     "react-dom": "^18",
+    "react-facebook": "^9.0.12",
     "react-spinners": "^0.13.8",
     "react-toastify": "^9.1.3",
     "stripe": "^13.9.0"
